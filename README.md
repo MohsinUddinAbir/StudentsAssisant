@@ -6,36 +6,40 @@
 ##### Heading 5
 ###### Heading 6
 
-<!-- Italics -->
+<!-- Italic -->
 
-*This text* is italic
+*This text is italic*
 
 _This text_ is itelac
 
 <!-- Strong -->
-**This text** is italic
+**This text** is strong
 
-__This text__ is itelac
+__This text__ is strong
 
-<!-- Strickethrough -->
+<!-- Strikethrough -->
 
-~~This text~~ is strickethrough
+~~This text~~ is strikethrough
 
 <!-- Horizontal rule -->
+
 ---
 
 ___
 
 <!-- Blockquote -->
+
 >This is a quote
 
 <!-- Links -->
+
 [Students Assistant](http://127.0.0.1:8000/news)
 
 [Students Assistant](http://127.0.0.1:8000/news
 "StudentsAssistant")
 
 <!-- UL -->
+
 * Item 1
 * Item 2
 * Item 3
@@ -51,6 +55,7 @@ ___
 * Item 5
 
 <!-- OL -->
+
 1. Item 1
 2. Item 2
 3. Item 3
@@ -59,11 +64,13 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
+
 ![Markdown Logo](https://reactnative.dev/img/header_logo.svg)
 
 <!-- Github Markdown -->
 
 <!-- Code Blocks -->
+
 ```bash
   npm install
   npm start
@@ -80,7 +87,8 @@ ___
       return num1 + num2
 ```
 
-<!-- Tables -->
+<!-- Table -->
+
 | Name  | Email         |
 |-------|---------------|
 | John  | john@gmail.com|
@@ -88,6 +96,7 @@ ___
 | Radi  | Radi@gmail.com|
 
 <!-- Task Lists -->
+
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
