@@ -21,6 +21,10 @@ __This text__ is strong
 
 ~~This text~~ is strikethrough
 
+<!-- Important -->
+
+`This text` is important
+
 <!-- Horizontal rule -->
 
 ---

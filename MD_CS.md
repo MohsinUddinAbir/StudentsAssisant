@@ -125,7 +125,7 @@ async_call('/path/to/api', function(json) {
 })
 ```
 
-The Github Markdown also brings some [nice Emoji support][emoji] : :+1: :heart: :beer:
+The Github Markdown also brings some [nice Emoji support][emoji] : :+1: :heart: :beer: :-1:
 
 [^note-id]: This is the text of the note. 
 
